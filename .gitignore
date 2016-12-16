@@ -1,4 +1,5 @@
 *.pyc
+*.swp
 config.py
 out/
 search_index/
